@@ -30,6 +30,9 @@ for this purpose.
 
 <img width="1415" height="775" alt="2" src="https://github.com/user-attachments/assets/350c7552-2e8b-443f-a24e-2419de57b51c" />
 
+<img width="560" height="822" alt="Screenshot 2025-08-29 101345" src="https://github.com/user-attachments/assets/8528e518-189c-45b2-8e7e-6b85748b9435" />
+
+
 <img width="1587" height="823" alt="3" src="https://github.com/user-attachments/assets/3659f4fb-ba84-41f1-a78c-7a4bc3536e59" />
 
 
