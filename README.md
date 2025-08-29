@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 28-08-2025
+### DATE: 29-08-2025
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,14 +26,13 @@ for this purpose.
 
 
 ### Output:
-<img width="1413" height="773" alt="1" src="https://github.com/user-attachments/assets/e9323d7c-73d1-42a0-8c91-ae7999d448f4" />
+<img width="1703" height="946" alt="Screenshot 2025-08-29 104951" src="https://github.com/user-attachments/assets/9c9aac01-d13f-4dd5-a5f1-12abede88dd3" />
 
-<img width="1415" height="775" alt="2" src="https://github.com/user-attachments/assets/350c7552-2e8b-443f-a24e-2419de57b51c" />
+<img width="1702" height="947" alt="Screenshot 2025-08-29 105009" src="https://github.com/user-attachments/assets/8503c460-477f-4917-8029-1be6287f0da2" />
 
-<img width="560" height="822" alt="Screenshot 2025-08-29 101345" src="https://github.com/user-attachments/assets/8528e518-189c-45b2-8e7e-6b85748b9435" />
+<img width="1700" height="949" alt="Screenshot 2025-08-29 105034" src="https://github.com/user-attachments/assets/1af1745a-6697-4139-81f5-f13ab67f0003" />
 
-
-<img width="1587" height="823" alt="3" src="https://github.com/user-attachments/assets/3659f4fb-ba84-41f1-a78c-7a4bc3536e59" />
+<img width="1694" height="924" alt="Screenshot 2025-08-29 105052" src="https://github.com/user-attachments/assets/2bc863a7-af06-4394-834b-cf7b2b84a88f" />
 
 
 ### Result:
